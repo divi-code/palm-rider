@@ -1,0 +1,90 @@
+@media (max-width: 991.98px) {
+  .navbar .navbar-brand {
+      padding-top: 0.8rem;
+      padding-bottom: 0.8rem;
+      width: 100px;
+      height: auto;
+  }
+
+  .contract-address {
+      font-size: 16px;
+  }
+
+  .contract-address-top {
+      font-size: 16px;
+  }
+
+  .text-xl {
+    font-size: 2.6rem;
+  }
+
+  .hero-right {
+    height: 450px;
+  }
+
+  .bg-moon {
+      top: 495px;
+      right: 50%;
+      width: 150px;
+      height: 150px;
+  }
+
+  .bg-stars {
+      top: 495px;
+      right: 0;
+
+  }
+
+  .simba-stone img {
+	  width: 550px;
+	  height: auto;
+  }
+
+  .text-hero {
+    padding-top: 20px;
+	padding-bottom: 0;
+  }
+
+  .simba-rocket figure img {
+	  max-width: 80%;
+	  margin-right: 10%;
+  }
+
+  .countdown-container {
+    padding-top: 20px!important;
+  }
+
+  .countdown-container h1 {
+      font-size: 1.1rem;
+  }
+
+  .countdown-container h2 {
+      font-size: 2rem;
+  }
+
+  .contract-address-top .d-flex {
+    justify-content: center !important;	  
+  }
+  
+  .ca-ellipsis {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis!important;
+	display: inline-block;
+  } 
+
+}
+
+@media (max-width: 575.98px) {
+  .contract-address {
+      font-size: 14px;  
+  }
+  
+  .contract-address-top .d-flex {
+	  padding: 0 70px 0;
+  }
+  
+  .contract-address .d-flex {
+	  padding: 0 70px 0 0;
+  }  
+}
